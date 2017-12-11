@@ -4,7 +4,7 @@
 ### 插入链接
 [GITHUB](https://github.com/)
 ### 插入图片
-- ![汪]（http://imgsrc.baidu.com/imgad/pic/item/2934349b033b5bb59946eed63dd3d539b600bc01.jpg）
+- ![汪]（http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=b19de21622381f308a1485eac168267d/e824b899a9014c0841b4f88b007b02087bf4f415.jpg）
 - **前后两星是加粗**
 - *前后一星是斜体*
 ***
@@ -14,4 +14,5 @@
  | 5个-代表表头 | ::代表居中对齐 | 左对齐 | 右对齐 |
  | 随便 | 这是啥 | 只要有看头 | 好吧 |
  | 再来一行 | 这是表尾 | 表 | 尾巴 |
-  `来一个突出代码框`
+  
+- `来一个突出代码框`
