@@ -4,7 +4,7 @@
 ### 插入链接
 [GITHUB](https://github.com/)
 ### 插入图片
-![汪](http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=b19de21622381f308a1485eac168267d/e824b899a9014c0841b4f88b007b02087bf4f415.jpg =100*100)
+![汪](http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=b19de21622381f308a1485eac168267d/e824b899a9014c0841b4f88b007b02087bf4f415.jpg =100x100)
 > 修改图片格式
   ![test image size](url){:class="img-responsive"}
   ![test image size](url){:height="50%" width="50%"}
