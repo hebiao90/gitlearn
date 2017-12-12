@@ -4,7 +4,7 @@
 ### 插入链接
 [GITHUB](https://github.com/)
 ### 插入图片
-![汪]（http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=b19de21622381f308a1485eac168267d/e824b899a9014c0841b4f88b007b02087bf4f415.jpg）
+![汪](http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=b19de21622381f308a1485eac168267d/e824b899a9014c0841b4f88b007b02087bf4f415.jpg)
 - **前后两星是加粗**
 - *前后一星是斜体*
 ***
